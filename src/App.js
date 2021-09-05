@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
        <Nav/>
         <h1 className='name grow '>Barbaro Reyes</h1>
+        <h3 className='name grow '>SoftWare  Developer</h3>
       </header>
     </div>
   );
